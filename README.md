@@ -1,4 +1,4 @@
-# Analysis of Election Audit
+# Analysis of the Election Audit
 
 ## Overview of the Project
 
@@ -17,10 +17,11 @@ The project also required to include the following additional information that w
 2. The percentage of votes from each county out of the total count
 3. The county with the highest turnout
 
-## Election-Audit Results
+## Project Results
 
-The code for the analysis of the election audit can be found here, github.com/dshetty100/Election_Analysis 
-The analysis shows that:
+The code that was used for this analysis can be found here, http://github.com/dshetty100/Election_Analysis 
+
+The analysis result shows that:
 - There were 369,711 votes cast in total
 
 - The number of votes and the percentage of total votes for each county were:
