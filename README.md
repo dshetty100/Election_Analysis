@@ -26,13 +26,14 @@ The analysis result shows that:
 
 - The number of votes and the percentage of total votes for each county were:
 
-    1. Jefferson, which received 38,855 votes with 10.5% of the total votes
+  1. Jefferson, which received 38,855 votes with 10.5% of the total votes
   2. Denver, which received 306,055 votes with 82.8% of the total votes
   3. Arapahoe, which received 24,801 votes with 6.7% of the total votes
 
 - The county with the largest number of votes was Denver
 
 - The results for each candidate were:
+
   1.  Charles Casper Stockham received 85,213 votes with 23.0% of the total votes
   2.  Diana DeGette received 272,892 votes with 73.8% of the total otes
   3.  Raymon Anthony Doane11,606) received 11,606 votes with 3.1% of the total votes
