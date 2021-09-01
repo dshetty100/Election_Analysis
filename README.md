@@ -21,9 +21,9 @@ The project also required to include the following additional information that w
 
 The code for the analysis of the election audit can be found here, github.com/dshetty100/Election_Analysis 
 The analysis shows that:
--There were 369,711 votes cast in total
+- There were 369,711 votes cast in total
 
--The number of votes and the percentage of total votes for each county were:
+- The number of votes and the percentage of total votes for each county were:
   1. Jefferson, which received 38,855 votes with 10.5% of the total votes
   2. Denver, which received 306,055 votes with 82.8% of the total votes
   3. Arapahoe, which received 24,801 votes with 6.7% of the total votes
