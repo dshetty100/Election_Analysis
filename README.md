@@ -44,5 +44,5 @@ The analysis result shows that:
 
 The script used in this analysis can be used in any election by modifying it to include:
 
--Election results from more than one states and printing the winner information into separate text files, one for each state.
--Election results in a tabulated form for ease of viewing and distributing the outcome. 
+- Election results from more than one states and printing the winner information into separate text files, one for each state.
+- Election results in a tabulated form for ease of viewing and distributing the outcome. 
